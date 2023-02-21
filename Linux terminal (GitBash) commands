@@ -1,0 +1,18 @@
+1) Посмотреть где я
+                      `$ pwd`
+2) Создать папку
+                     mkdir Homework
+3) Зайти в папку
+                     cd Homework
+4) Создать 3 папки
+                    mkdir Folder_1 Folder_2 Folder_3
+5) Зайти в любую папку
+                    cd Folder_1
+6) Создать 5 файлов (3 txt, 2 json)
+                     touch first.txt second.txt third.txt first.json second.json
+7) Создать 3 папки
+                     mkdir papka_1 papka_2 papka_3
+8. Вывести список содержимого папки
+                   ls -la
+9) + Открыть любой txt файл
+                   vim third.txt
