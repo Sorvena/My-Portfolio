@@ -13,5 +13,5 @@
 **Restauraunt Kogel-Mogel**
 * [MindMap of Site]
 * [Test Plan](https://docs.google.com/document/d/1F_7tSuO9AcxZR7C1yLwgceN7P9ycTogg_w198LIf4j4/edit?usp=sharing)
-* [Check List, Test suits, Bug Reports](https://docs.google.com/spreadsheets/d/1rbJuZ2KKB4IwOSLjOwzNMA_dUmKxz1ee3P-Z3Vg_p4g/edit?usp=sharing)
+* [Check List, Test suits, Bug Reports]()
 
