@@ -10,8 +10,13 @@
  * [Devtools HW](https://docs.google.com/document/d/1XoQgsbc73CFKoBU7pr44lMqpkNnd5AoY1hE86iR3h2w/edit?usp=sharing)/[Video](https://drive.google.com/file/d/1aSHFKT4qnTUyZ8U_3XRkyNtcKAfoDlfx/view?usp=sharing)
  * Webservices [Тех.задание](https://docs.google.com/document/d/1yJes_yncucaz7Tf_G47ofT1GMwx6bN5tTdbkBr_uM9w/edit?usp=sharing)/[Схема](https://drive.google.com/file/d/1dOWuXds06NtAusEjYxB_LbuJY4vBIshz/view?usp=drive_link)
 # My Test Documentation
+**Swivl**
+* [Check List](https://docs.google.com/spreadsheets/d/12kYVnV3nO2mNB8Oa6qk_FO886fBIhKSMmQrKE9_LJwk/edit?usp=sharing)
+* [Test Cases](https://docs.google.com/spreadsheets/d/1yV_XWKz82g4aRstnRlF1cjg2UZxTM1YP_GtJiyV1WM0/edit?usp=sharing)
+* [Bug reports](https://docs.google.com/spreadsheets/d/1iLAJXo2MSoZonU91brA3j645LzTiyd1s1wBQq6t8ltE/edit?usp=sharing)
+
+  
 **Restauraunt Kogel-Mogel**
-* [MindMap of Site]
 * [Test Plan](https://docs.google.com/document/d/1F_7tSuO9AcxZR7C1yLwgceN7P9ycTogg_w198LIf4j4/edit?usp=sharing)
-* [Check List, Test suits, Bug Reports]()
+
 
